@@ -1,1 +1,1 @@
-# lesson_average
+Bu program, bir üniversite dersinden geçme durumunuzu hesaplar.
